@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">RJ 通話ログのエクスポート</string>
+    <string name="navigation_drawer_open">ナビゲーションドロワーを開く</string>
+    <string name="navigation_drawer_close">ナビゲーションドロワーを閉じる</string>
+    <string name="nav_title_settings">設定</string>
+    <string name="nav_title_call_log">通話履歴</string>
+    <string name="nav_title_other_apps">その他のアプリ</string>
+    <string name="nav_title_privacy_policy">プライバシーポリシー</string>
+    <string name="nav_title_about_app">アプリについて</string>
+
+    <string name="toolbar_title_open_menu">メニューを開く</string>
+
+    <string name="label_time_filter">時間フィルター:</string>
+    <string name="button_filter_all_time">全期間</string>
+    <string name="label_export_options">エクスポート先:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">通話履歴</string>
+    <string name="cd_call_log_list">通話履歴リスト</string>
+
+    <string name="button_donate">寄付する！</string>
+    <string name="text_powered_by">提供: veb.developher.az</string>
+
+    <string name="text_unknown_number">不明</string>
+    <string name="call_type_answered">応答</string>
+    <string name="call_type_missed">不在着信</string>
+    <string name="call_type_outgoing">発信</string>
+    <string name="call_type_voicemail">ボイスメール</string>
+    <string name="call_type_rejected">拒否</string>
+    <string name="call_type_blocked">ブロック済み</string>
+    <string name="call_type_unknown">不明</string>
+    <string name="title_language_selection">言語選択</string>
+    <string name="action_confirm">確認</string>
+    <string name="cd_language_item_icon">言語アイコン</string>
+    <string name="language_option_system_default">デバイスの言語 (システム)</string>
+    <string name="toast_language_changed_restart_needed">言語が%1$sに変更されました。変更を完全に適用するには、アプリを再起動するか、ページを更新してください。</string>
+    <string name="toast_language_not_changed">言語は変更されませんでした。</string>
+    <string name="settings_toolbar_title">設定</string>
+    <string name="settings_item_title_theme">テーマ</string>
+    <string name="settings_item_title_language">言語</string>
+    <string name="settings_item_title_other_apps">その他のアプリ</string>
+    <string name="settings_item_title_privacy_policy">プライバシーポリシー</string>
+    <string name="settings_item_title_about_app">概要</string>
+    <string name="settings_item_title_follow_us">フォローする</string>
+    <string name="settings_app_version_placeholder">バージョン X.X.X</string>
+    <string name="cd_settings_item_theme_icon">テーマ選択アイコン</string>
+    <string name="cd_settings_item_language_icon">言語選択アイコン</string>
+    <string name="cd_settings_item_other_apps_icon">その他のアプリのアイコン</string>
+    <string name="cd_settings_item_privacy_policy_icon">プライバシーポリシーアイコン</string>
+    <string name="cd_settings_item_about_app_icon">アプリ概要アイコン</string>
+    <string name="cd_settings_item_follow_us_icon">フォローするアイコン</string>
+
+    <string name="excel_sheet_name_call_history">通話履歴</string>
+    <string name="excel_header_number">番号</string>
+    <string name="excel_header_date">日付</string>
+    <string name="excel_header_duration">通話時間 (秒)</string>
+    <string name="excel_header_type">種類</string>
+
+    <string name="toast_excel_export_success">Excelファイルが正常に保存されました！</string>
+    <string name="toast_excel_export_error_opening_file">エクスポート用にファイルを開く際にエラーが発生しました。</string>
+    <string name="toast_excel_export_error_saving">Excelファイルの保存中にエラーが発生しました。</string>
+    <string name="toast_no_data_to_export">エクスポートするデータがありません。</string>
+    <string name="call_type_unknown_formatted">不明 (%1$s)</string>
+
+    <string name="toast_file_not_selected">ファイルが選択されていません</string>
+
+    <string name="toast_txt_export_success">TXTファイルが正常に保存されました！</string>
+    <string name="toast_txt_export_error_saving">TXTファイルの保存中にエラーが発生しました。</string>
+
+    <string name="txt_header_number">番号</string>
+    <string name="txt_header_date">日付</string>
+    <string name="txt_header_duration">通話時間 (秒)</string>
+    <string name="txt_header_type">種類</string>
+
+    <string name="toast_permission_granted">権限が付与されました</string>
+    <string name="toast_permission_required_to_show_call_log">通話履歴を表示するには権限が必要です</string>
+    <string name="text_unknown_filter_fallback">不明なフィルター</string>
+    <string name="toast_permission_rationale_call_log">通話履歴を表示するには権限が必要です。</string>
+    <string name="toast_no_calls_found_for_filter">選択したフィルターに該当する通話は見つかりませんでした</string>
+    <string name="toast_permission_denied_call_log_repo">通話履歴を読み取るには権限が必要です。</string>
+    <string name="toast_error_loading_call_log_repo">通話履歴の読み取り中にエラーが発生しました。</string>
+
+    <string name="text_filter_button_default">フィルター</string>
+    <string name="toast_no_app_to_open_link">このリンクを開くための適切なアプリが見つかりませんでした。</string>
+    <string name="dialog_title_select_time_filter">時間フィルターを選択</string>
+    <string name="dialog_button_cancel">キャンセル</string>
+    <string name="datepicker_title_select_date_range">日付範囲を選択</string>
+
+    <string name="pdf_document_title">通話履歴のエクスポート</string>
+    <string name="pdf_header_number">番号</string>
+    <string name="pdf_header_date">日付</string>
+    <string name="pdf_header_duration">通話時間 (秒)</string>
+    <string name="pdf_header_type">種類</string>
+
+    <string name="toast_pdf_export_success_pages">PDFファイル (%1$d ページ) が正常に保存されました！</string>
+    <string name="toast_pdf_export_error_saving">PDFファイルの保存中にエラーが発生しました: %1$s</string>
+
+    <string name="settings_title">設定</string>
+    <string name="toast_language_settings_future">言語設定 (将来対応予定)</string>
+    <string name="dialog_title_select_theme">テーマを選択</string>
+    <string name="text_app_version">バージョン %1$s</string>
+    <string name="text_app_version_na">バージョン N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">ライト</string>
+    <string name="theme_option_dark">ダーク</string>
+    <string name="theme_option_system">システム (デフォルト)</string>
+
+    <string name="filter_option_all_time">全期間</string>
+    <string name="filter_option_today">今日</string>
+    <string name="filter_option_last_7_days">過去7日間</string>
+    <string name="filter_option_last_30_days">過去30日間</string>
+    <string name="filter_option_last_1_year">過去1年間</string>
+    <string name="filter_option_custom_range">カスタム範囲</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+</resources>

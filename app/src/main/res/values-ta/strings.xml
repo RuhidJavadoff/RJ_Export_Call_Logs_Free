@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">RJ அழைப்பு பதிவுகள் ஏற்றுமதி</string>
+    <string name="navigation_drawer_open">வழிசெலுத்தல் டிராயரைத் திற</string>
+    <string name="navigation_drawer_close">வழிசெலுத்தல் டிராயரை மூடு</string>
+    <string name="nav_title_settings">அமைப்புகள்</string>
+    <string name="nav_title_call_log">அழைப்பு வரலாறு</string>
+    <string name="nav_title_other_apps">பிற பயன்பாடுகள்</string>
+    <string name="nav_title_privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="nav_title_about_app">பயன்பாடு பற்றி</string>
+
+    <string name="toolbar_title_open_menu">மெனுவைத் திற</string>
+    <string name="title_language_selection">மொழித் தேர்வு</string>
+    <string name="action_confirm">உறுதிப்படுத்து</string>
+    <string name="cd_language_item_icon">மொழி ஐகான்</string>
+    <string name="language_option_system_default">சாதன மொழி (கணினி)</string>
+    <string name="toast_language_changed_restart_needed">மொழி %1$s ஆக மாற்றப்பட்டது. மாற்றங்கள் முழுமையாகச் செயல்பட, தயவுசெய்து பயன்பாட்டை மீண்டும் தொடங்கவும் அல்லது பக்கங்களைப் புதுப்பிக்கவும்.</string>
+    <string name="toast_language_not_changed">மொழி மாற்றப்படவில்லை.</string>
+    <string name="settings_toolbar_title">அமைப்புகள்</string>
+    <string name="settings_item_title_theme">தீம்</string>
+    <string name="settings_item_title_language">மொழி</string>
+    <string name="settings_item_title_other_apps">பிற பயன்பாடுகள்</string>
+    <string name="settings_item_title_privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="settings_item_title_about_app">பற்றி</string>
+    <string name="settings_item_title_follow_us">எங்களைப் பின்தொடரவும்</string>
+    <string name="settings_app_version_placeholder">பதிப்பு X.X.X</string>
+    <string name="cd_settings_item_theme_icon">தீம் தேர்வு ஐகான்</string>
+    <string name="cd_settings_item_language_icon">மொழித் தேர்வு ஐகான்</string>
+    <string name="cd_settings_item_other_apps_icon">பிற பயன்பாடுகள் ஐகான்</string>
+    <string name="cd_settings_item_privacy_policy_icon">தனியுரிமைக் கொள்கை ஐகான்</string>
+    <string name="cd_settings_item_about_app_icon">பயன்பாடு பற்றிய ஐகான்</string>
+    <string name="cd_settings_item_follow_us_icon">எங்களைப் பின்தொடரவும் ஐகான்</string>
+
+    <string name="label_time_filter">நேர வடிகட்டி:</string>
+    <string name="button_filter_all_time">எல்லா நேரமும்</string>
+    <string name="label_export_options">ஏற்றுமதி செய்:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">அழைப்பு வரலாறு</string>
+    <string name="cd_call_log_list">அழைப்பு வரலாற்று பட்டியல்</string>
+
+    <string name="button_donate">நன்கொடை அளியுங்கள்!</string>
+    <string name="text_powered_by">ஆதரவளிப்பவர்: veb.developher.az</string>
+
+    <string name="text_unknown_number">அறியப்படாத</string>
+    <string name="call_type_answered">பதிலளிக்கப்பட்டது</string>
+    <string name="call_type_missed">தவறியது</string>
+    <string name="call_type_outgoing">வெளிச்செல்லும்</string>
+    <string name="call_type_voicemail">குரலஞ்சல்</string>
+    <string name="call_type_rejected">நிராகரிக்கப்பட்டது</string>
+    <string name="call_type_blocked">தடுக்கப்பட்டது</string>
+    <string name="call_type_unknown">அறியப்படாத</string>
+
+    <string name="excel_sheet_name_call_history">அழைப்பு வரலாறு</string>
+    <string name="excel_header_number">எண்</string>
+    <string name="excel_header_date">தேதி</string>
+    <string name="excel_header_duration">கால அளவு (வினாடிகள்)</string>
+    <string name="excel_header_type">வகை</string>
+
+    <string name="toast_excel_export_success">Excel கோப்பு வெற்றிகரமாக சேமிக்கப்பட்டது!</string>
+    <string name="toast_excel_export_error_opening_file">ஏற்றுமதிக்கு கோப்பைத் திறக்கும்போது பிழை ஏற்பட்டது.</string>
+    <string name="toast_excel_export_error_saving">Excel கோப்பைச் சேமிக்கும்போது பிழை ஏற்பட்டது.</string>
+    <string name="toast_no_data_to_export">ஏற்றுமதி செய்ய தரவு இல்லை.</string>
+    <string name="call_type_unknown_formatted">அறியப்படாத (%1$s)</string>
+
+    <string name="toast_file_not_selected">கோப்பு தேர்ந்தெடுக்கப்படவில்லை</string>
+
+    <string name="toast_txt_export_success">TXT கோப்பு வெற்றிகரமாக சேமிக்கப்பட்டது!</string>
+    <string name="toast_txt_export_error_saving">TXT கோப்பைச் சேமிக்கும்போது பிழை ஏற்பட்டது.</string>
+
+    <string name="txt_header_number">எண்</string>
+    <string name="txt_header_date">தேதி</string>
+    <string name="txt_header_duration">கால அளவு (வினாடிகள்)</string>
+    <string name="txt_header_type">வகை</string>
+
+    <string name="toast_permission_granted">அனுமதி வழங்கப்பட்டது</string>
+    <string name="toast_permission_required_to_show_call_log">அழைப்பு பதிவைக் காட்ட அனுமதி தேவை</string>
+    <string name="text_unknown_filter_fallback">அறியப்படாதவடிகட்டி</string>
+    <string name="toast_permission_rationale_call_log">அழைப்பு வரலாற்றைக் காட்ட அனுமதி தேவை.</string>
+    <string name="toast_no_calls_found_for_filter">தேர்ந்தெடுக்கப்பட்ட வடிகட்டிக்கு அழைப்புகள் எதுவும் கிடைக்கவில்லை</string>
+    <string name="toast_permission_denied_call_log_repo">அழைப்பு வரலாற்றைப் படிக்க அனுமதி தேவை.</string>
+    <string name="toast_error_loading_call_log_repo">அழைப்பு வரலாற்றைப் படிக்கும்போது பிழை ஏற்பட்டது.</string>
+
+    <string name="text_filter_button_default">வடிகட்டி</string>
+    <string name="toast_no_app_to_open_link">இந்த இணைப்பைத் திறக்க பொருத்தமான பயன்பாடு எதுவும் கிடைக்கவில்லை.</string>
+    <string name="dialog_title_select_time_filter">நேர வடிப்பானைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="dialog_button_cancel">ரத்துசெய்</string>
+    <string name="datepicker_title_select_date_range">தேதி வரம்பைத் தேர்ந்தெடுக்கவும்</string>
+
+    <string name="pdf_document_title">அழைப்பு வரலாறு ஏற்றுமதி</string>
+    <string name="pdf_header_number">எண்</string>
+    <string name="pdf_header_date">தேதி</string>
+    <string name="pdf_header_duration">கால அளவு (வினாடிகள்)</string>
+    <string name="pdf_header_type">வகை</string>
+
+    <string name="toast_pdf_export_success_pages">PDF கோப்பு (%1$d பக்கங்கள்) வெற்றிகரமாக சேமிக்கப்பட்டது!</string>
+    <string name="toast_pdf_export_error_saving">PDF கோப்பைச் சேமிக்கும்போது பிழை ஏற்பட்டது: %1$s</string>
+
+    <string name="settings_title">அமைப்புகள்</string>
+    <string name="toast_language_settings_future">மொழி அமைப்புகள் (எதிர்காலத்தில்)</string>
+    <string name="dialog_title_select_theme">தீம் தேர்ந்தெடுக்கவும்</string>
+    <string name="text_app_version">பதிப்பு %1$s</string>
+    <string name="text_app_version_na">பதிப்பு இல்லை</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">ஒளி</string>
+    <string name="theme_option_dark">இருண்ட</string>
+    <string name="theme_option_system">கணினி (இயல்புநிலை)</string>
+
+    <string name="filter_option_all_time">எல்லா நேரமும்</string>
+    <string name="filter_option_today">இன்று</string>
+    <string name="filter_option_last_7_days">கடந்த 7 நாட்கள்</string>
+    <string name="filter_option_last_30_days">கடந்த 30 நாட்கள்</string>
+    <string name="filter_option_last_1_year">கடந்த 1 வருடம்</string>
+    <string name="filter_option_custom_range">தனிப்பயன் வரம்பு</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+</resources>

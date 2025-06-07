@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">RJ 통화 로그 내보내기</string>
+    <string name="navigation_drawer_open">탐색 창 열기</string>
+    <string name="navigation_drawer_close">탐색 창 닫기</string>
+    <string name="nav_title_settings">설정</string>
+    <string name="nav_title_call_log">통화 기록</string>
+    <string name="nav_title_other_apps">다른 앱</string>
+    <string name="nav_title_privacy_policy">개인정보 처리방침</string>
+    <string name="nav_title_about_app">앱 정보</string>
+    <string name="title_language_selection">언어 선택</string>
+    <string name="action_confirm">확인</string>
+    <string name="cd_language_item_icon">언어 아이콘</string>
+    <string name="language_option_system_default">기기 언어 (시스템)</string>
+    <string name="toast_language_changed_restart_needed">언어가 %1$s(으)로 변경되었습니다. 변경 사항을 완전히 적용하려면 앱을 다시 시작하거나 페이지를 새로고침하세요.</string>
+    <string name="toast_language_not_changed">언어가 변경되지 않았습니다.</string>
+    <string name="settings_toolbar_title">설정</string>
+    <string name="settings_item_title_theme">테마</string>
+    <string name="settings_item_title_language">언어</string>
+    <string name="settings_item_title_other_apps">다른 앱</string>
+    <string name="settings_item_title_privacy_policy">개인정보 처리방침</string>
+    <string name="settings_item_title_about_app">정보</string>
+    <string name="settings_item_title_follow_us">팔로우하기</string>
+    <string name="settings_app_version_placeholder">버전 X.X.X</string>
+    <string name="cd_settings_item_theme_icon">테마 선택 아이콘</string>
+    <string name="cd_settings_item_language_icon">언어 선택 아이콘</string>
+    <string name="cd_settings_item_other_apps_icon">다른 앱 아이콘</string>
+    <string name="cd_settings_item_privacy_policy_icon">개인정보 처리방침 아이콘</string>
+    <string name="cd_settings_item_about_app_icon">앱 정보 아이콘</string>
+    <string name="cd_settings_item_follow_us_icon">팔로우하기 아이콘</string>
+
+    <string name="toolbar_title_open_menu">메뉴 열기</string>
+
+    <string name="label_time_filter">시간 필터:</string>
+    <string name="button_filter_all_time">모든 시간</string>
+    <string name="label_export_options">내보내기:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">통화 기록</string>
+    <string name="cd_call_log_list">통화 기록 목록</string>
+
+    <string name="button_donate">기부하기!</string>
+    <string name="text_powered_by">제공: veb.developher.az</string>
+
+    <string name="text_unknown_number">알 수 없음</string>
+    <string name="call_type_answered">수신</string>
+    <string name="call_type_missed">부재중</string>
+    <string name="call_type_outgoing">발신</string>
+    <string name="call_type_voicemail">음성사서함</string>
+    <string name="call_type_rejected">거절됨</string>
+    <string name="call_type_blocked">차단됨</string>
+    <string name="call_type_unknown">알 수 없음</string>
+
+    <string name="excel_sheet_name_call_history">통화 기록</string>
+    <string name="excel_header_number">번호</string>
+    <string name="excel_header_date">날짜</string>
+    <string name="excel_header_duration">통화 시간 (초)</string>
+    <string name="excel_header_type">유형</string>
+
+    <string name="toast_excel_export_success">Excel 파일이 성공적으로 저장되었습니다!</string>
+    <string name="toast_excel_export_error_opening_file">내보내기 위해 파일을 여는 중 오류가 발생했습니다.</string>
+    <string name="toast_excel_export_error_saving">Excel 파일을 저장하는 중 오류가 발생했습니다.</string>
+    <string name="toast_no_data_to_export">내보낼 데이터가 없습니다.</string>
+    <string name="call_type_unknown_formatted">알 수 없음 (%1$s)</string>
+
+    <string name="toast_file_not_selected">파일이 선택되지 않았습니다</string>
+
+    <string name="toast_txt_export_success">TXT 파일이 성공적으로 저장되었습니다!</string>
+    <string name="toast_txt_export_error_saving">TXT 파일을 저장하는 중 오류가 발생했습니다.</string>
+
+    <string name="txt_header_number">번호</string>
+    <string name="txt_header_date">날짜</string>
+    <string name="txt_header_duration">통화 시간 (초)</string>
+    <string name="txt_header_type">유형</string>
+
+    <string name="toast_permission_granted">권한이 부여되었습니다</string>
+    <string name="toast_permission_required_to_show_call_log">통화 기록을 표시하려면 권한이 필요합니다</string>
+    <string name="text_unknown_filter_fallback">알수없는필터</string>
+    <string name="toast_permission_rationale_call_log">통화 기록을 표시하려면 권한이 필요합니다.</string>
+    <string name="toast_no_calls_found_for_filter">선택한 필터에 대한 통화가 없습니다</string>
+    <string name="toast_permission_denied_call_log_repo">통화 기록을 읽으려면 권한이 필요합니다.</string>
+    <string name="toast_error_loading_call_log_repo">통화 기록을 읽는 중 오류가 발생했습니다.</string>
+
+    <string name="text_filter_button_default">필터</string>
+    <string name="toast_no_app_to_open_link">이 링크를 열 수 있는 적절한 앱을 찾을 수 없습니다.</string>
+    <string name="dialog_title_select_time_filter">시간 필터 선택</string>
+    <string name="dialog_button_cancel">취소</string>
+    <string name="datepicker_title_select_date_range">날짜 범위 선택</string>
+
+    <string name="pdf_document_title">통화 기록 내보내기</string>
+    <string name="pdf_header_number">번호</string>
+    <string name="pdf_header_date">날짜</string>
+    <string name="pdf_header_duration">통화 시간 (초)</string>
+    <string name="pdf_header_type">유형</string>
+
+    <string name="toast_pdf_export_success_pages">PDF 파일(%1$d 페이지)이 성공적으로 저장되었습니다!</string>
+    <string name="toast_pdf_export_error_saving">PDF 파일을 저장하는 중 오류가 발생했습니다: %1$s</string>
+
+    <string name="settings_title">설정</string>
+    <string name="toast_language_settings_future">언어 설정 (추후 제공)</string>
+    <string name="dialog_title_select_theme">테마 선택</string>
+    <string name="text_app_version">버전 %1$s</string>
+    <string name="text_app_version_na">버전 N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">밝게</string>
+    <string name="theme_option_dark">어둡게</string>
+    <string name="theme_option_system">시스템 기본값</string>
+
+    <string name="filter_option_all_time">모든 시간</string>
+    <string name="filter_option_today">오늘</string>
+    <string name="filter_option_last_7_days">지난 7일</string>
+    <string name="filter_option_last_30_days">지난 30일</string>
+    <string name="filter_option_last_1_year">지난 1년</string>
+    <string name="filter_option_custom_range">사용자 지정 범위</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+</resources>

@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">RJ Export Call Logs</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_title_settings">Settings</string>
+    <string name="nav_title_call_log">Call History</string>
+    <string name="nav_title_other_apps">Other Apps</string>
+    <string name="nav_title_privacy_policy">Privacy Policy</string>
+    <string name="nav_title_about_app">About App</string>
+
+    <string name="toolbar_title_open_menu">Open Menu</string>
+
+    <string name="label_time_filter">Time Filter:</string>
+    <string name="button_filter_all_time">All Time</string>
+    <string name="label_export_options">Export to:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">Call History</string>
+    <string name="cd_call_log_list">Call history list</string>
+
+    <string name="button_donate">Donate!</string>
+    <string name="text_powered_by">Powered by: veb.developher.az</string>
+
+    <string name="text_unknown_number">Unknown</string>
+    <string name="call_type_answered">Answered</string>
+    <string name="call_type_missed">Missed</string>
+    <string name="call_type_outgoing">Outgoing</string>
+    <string name="call_type_voicemail">Voicemail</string>
+    <string name="call_type_rejected">Rejected</string>
+    <string name="call_type_blocked">Blocked</string>
+    <string name="call_type_unknown">Unknown</string>
+
+    <string name="excel_sheet_name_call_history">Call History</string>
+    <string name="excel_header_number">Number</string>
+    <string name="excel_header_date">Date</string>
+    <string name="excel_header_duration">Duration (sec)</string>
+    <string name="excel_header_type">Type</string>
+
+    <string name="toast_excel_export_success">Excel file saved successfully!</string>
+    <string name="toast_excel_export_error_opening_file">Error opening file for export.</string>
+    <string name="toast_excel_export_error_saving">Error saving Excel file.</string>
+    <string name="toast_no_data_to_export">No data to export.</string>
+    <string name="call_type_unknown_formatted">Unknown (%1$s)</string>
+
+    <string name="toast_file_not_selected">File not selected</string>
+
+    <string name="toast_txt_export_success">TXT file saved successfully!</string>
+    <string name="toast_txt_export_error_saving">Error saving TXT file.</string>
+
+    <string name="txt_header_number">Number</string>
+    <string name="txt_header_date">Date</string>
+    <string name="txt_header_duration">Duration (sec)</string>
+    <string name="txt_header_type">Type</string>
+
+    <string name="toast_permission_granted">Permission granted</string>
+    <string name="toast_permission_required_to_show_call_log">Permission required to show call log</string>
+    <string name="text_unknown_filter_fallback">UnknownFilter</string>
+    <string name="toast_permission_rationale_call_log">Permission is needed to display call history.</string>
+    <string name="toast_no_calls_found_for_filter">No calls found for selected filter</string>
+    <string name="toast_permission_denied_call_log_repo">Permission is required to read call history.</string>
+    <string name="toast_error_loading_call_log_repo">Error reading call history.</string>
+
+    <string name="text_filter_button_default">Filter</string>
+    <string name="toast_no_app_to_open_link">No suitable app found to open this link.</string>
+    <string name="dialog_title_select_time_filter">Select Time Filter</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="datepicker_title_select_date_range">Select Date Range</string>
+
+    <string name="pdf_document_title">Call History Export</string>
+    <string name="pdf_header_number">Number</string>
+    <string name="pdf_header_date">Date</string>
+    <string name="pdf_header_duration">Duration (sec)</string>
+    <string name="pdf_header_type">Type</string>
+
+    <string name="toast_pdf_export_success_pages">PDF file (%1$d pages) saved successfully!</string>
+    <string name="toast_pdf_export_error_saving">Error saving PDF file: %1$s</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="toast_language_settings_future">Language settings (in future)</string>
+    <string name="dialog_title_select_theme">Select Theme</string>
+    <string name="text_app_version">Version %1$s</string>
+    <string name="text_app_version_na">Version N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">Light</string>
+    <string name="theme_option_dark">Dark</string>
+    <string name="theme_option_system">System (Default)</string>
+
+    <string name="filter_option_all_time">All Time</string>
+    <string name="filter_option_today">Today</string>
+    <string name="filter_option_last_7_days">Last 7 Days</string>
+    <string name="filter_option_last_30_days">Last 30 Days</string>
+    <string name="filter_option_last_1_year">Last 1 Year</string>
+    <string name="filter_option_custom_range">Custom Range</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+
+    <string name="title_language_selection">Language Selection</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="cd_language_item_icon">Language icon</string>
+    <string name="language_option_system_default">Device language (System)</string>
+    <string name="toast_language_changed_restart_needed">Language changed to %1$s. For changes to take full effect, please restart the app or refresh pages.</string>
+    <string name="toast_language_not_changed">Language not changed.</string>
+    <string name="settings_toolbar_title">Settings</string>
+    <string name="settings_item_title_theme">Theme</string>
+    <string name="settings_item_title_language">Language</string>
+    <string name="settings_item_title_other_apps">Other Apps</string>
+    <string name="settings_item_title_privacy_policy">Privacy Policy</string>
+    <string name="settings_item_title_about_app">About</string>
+    <string name="settings_item_title_follow_us">Follow Us</string>
+    <string name="settings_app_version_placeholder">Version X.X.X</string>
+    <string name="cd_settings_item_theme_icon">Theme selection icon</string>
+    <string name="cd_settings_item_language_icon">Language selection icon</string>
+    <string name="cd_settings_item_other_apps_icon">Other apps icon</string>
+    <string name="cd_settings_item_privacy_policy_icon">Privacy policy icon</string>
+    <string name="cd_settings_item_about_app_icon">About app icon</string>
+    <string name="cd_settings_item_follow_us_icon">Follow us icon</string>
+</resources>

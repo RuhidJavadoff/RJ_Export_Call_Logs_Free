@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">RJ Frɛ Nkyerɛwtohɔ Yi Kɔma</string>
+    <string name="navigation_drawer_open">Bue nabigehyɛn drawer no</string>
+    <string name="navigation_drawer_close">To nabigehyɛn drawer no mu</string>
+    <string name="nav_title_settings">Nhyehyɛe ahorow</string>
+    <string name="nav_title_call_log">Frɛ Abakɔsɛm</string>
+    <string name="nav_title_other_apps">App ahorow afoforo</string>
+    <string name="nav_title_privacy_policy">Ahintasɛm ho Policy</string>
+    <string name="nav_title_about_app">App no ho nsɛm</string>
+
+    <string name="toolbar_title_open_menu">Bue Menu</string>
+
+    <string name="label_time_filter">Berɛ Sɔnɔ:</string>
+    <string name="button_filter_all_time">Berɛ Nyinaa</string>
+    <string name="label_export_options">Yi Kɔma:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">Frɛ Abakɔsɛm</string>
+    <string name="cd_call_log_list">Frɛ abakɔsɛm a wɔahyehyɛ</string>
+
+    <string name="button_donate">Boa yɛn!</string>
+    <string name="text_powered_by">Deɛ ɛboa: veb.developher.az</string>
+
+    <string name="text_unknown_number">Wɔnnim</string>
+    <string name="call_type_answered">Wɔgyee so</string>
+    <string name="call_type_missed">Wɔamfa</string>
+    <string name="call_type_outgoing">Deɛ ɛrekɔ</string>
+    <string name="call_type_voicemail">Nnɛnkɛseɛ a wɔde mena</string>
+    <string name="call_type_rejected">Wɔpoo</string>
+    <string name="call_type_blocked">Wɔasiw ano</string>
+    <string name="call_type_unknown">Wɔnnim</string>
+
+    <string name="excel_sheet_name_call_history">Frɛ Abakɔsɛm</string>
+    <string name="excel_header_number">Nɔma</string>
+    <string name="excel_header_date">Da</string>
+    <string name="excel_header_duration">Berɛ (sɛk)</string>
+    <string name="excel_header_type">Su</string>
+
+    <string name="toast_excel_export_success">Excel fael no akɔ yie!</string>
+    <string name="toast_excel_export_error_opening_file">Mfomsoɔ aba wɔ fael a worebue de ayi akɔma no mu.</string>
+    <string name="toast_excel_export_error_saving">Mfomsoɔ aba wɔ Excel fael no a worekora no mu.</string>
+    <string name="toast_no_data_to_export">Nsɛm nni hɔ a wobɛyi akɔma.</string>
+    <string name="call_type_unknown_formatted">Wɔnnim (%1$s)</string>
+
+    <string name="toast_file_not_selected">Wompaw fael biara</string>
+
+    <string name="toast_txt_export_success">TXT fael no akɔ yie!</string>
+    <string name="toast_txt_export_error_saving">Mfomsoɔ aba wɔ TXT fael no a worekora no mu.</string>
+
+    <string name="txt_header_number">Nɔma</string>
+    <string name="txt_header_date">Da</string>
+    <string name="txt_header_duration">Berɛ (sɛk)</string>
+    <string name="txt_header_type">Su</string>
+
+    <string name="toast_permission_granted">Wɔma kwan</string>
+    <string name="toast_permission_required_to_show_call_log">Ɛho hia sɛ wonya kwan ansa na wɔakyerɛ frɛ abakɔsɛm.</string>
+    <string name="text_unknown_filter_fallback">WɔnnimFilter</string>
+    <string name="toast_permission_rationale_call_log">Ɛho hia sɛ wonya kwan na ama wɔatumi akyerɛ frɛ abakɔsɛm.</string>
+    <string name="toast_no_calls_found_for_filter">Wɔanhu frɛ biara mma sɔnɔ a wɔapaw no.</string>
+    <string name="toast_permission_denied_call_log_repo">Ɛho hia sɛ wonya kwan na ama wɔatumi akenkan frɛ abakɔsɛm.</string>
+    <string name="toast_error_loading_call_log_repo">Mfomsoɔ aba wɔ frɛ abakɔsɛm akenkan mu.</string>
+
+    <string name="text_filter_button_default">Sɔnɔ</string>
+    <string name="toast_no_app_to_open_link">Wɔanhu app a ɛfata a ɛbɛbue link yi.</string>
+    <string name="dialog_title_select_time_filter">Paw Berɛ Sɔnɔ</string>
+    <string name="dialog_button_cancel">Twam mu</string>
+    <string name="datepicker_title_select_date_range">Paw Berɛ Ahyehyɛdeɛ</string>
+
+    <string name="pdf_document_title">Frɛ Abakɔsɛm a Wɔayi Akɔma</string>
+    <string name="pdf_header_number">Nɔma</string>
+    <string name="pdf_header_date">Da</string>
+    <string name="pdf_header_duration">Berɛ (sɛk)</string>
+    <string name="pdf_header_type">Su</string>
+
+    <string name="toast_pdf_export_success_pages">PDF fael (%1$d nkratafa) akɔ yie!</string>
+    <string name="toast_pdf_export_error_saving">Mfomsoɔ aba wɔ PDF fael no a worekora no mu: %1$s</string>
+
+    <string name="settings_title">Nhyehyɛe ahorow</string>
+    <string name="toast_language_settings_future">Kasa nhyehyɛe (daakye)</string>
+    <string name="dialog_title_select_theme">Paw Tema</string>
+    <string name="text_app_version">Nsɛm a ɛwɔ mu %1$s</string>
+    <string name="text_app_version_na">Nsɛm a ɛwɔ mu N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">Hann (Light)</string>
+    <string name="theme_option_dark">Sum (Dark)</string>
+    <string name="theme_option_system">Nhyehyɛe (Default)</string>
+
+    <string name="filter_option_all_time">Berɛ Nyinaa</string>
+    <string name="filter_option_today">Ɛnnɛ</string>
+    <string name="filter_option_last_7_days">Nna 7 A Atwam</string>
+    <string name="filter_option_last_30_days">Nna 30 A Atwam</string>
+    <string name="filter_option_last_1_year">Afe 1 A Atwam</string>
+    <string name="filter_option_custom_range">Beaeɛ Titiriw</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+
+    <string name="title_language_selection">Kasa a Wɔpaw</string>
+    <string name="action_confirm">Si so dua</string>
+    <string name="cd_language_item_icon">Kasa Mfonini</string>
+    <string name="language_option_system_default">Mfiri Kasa (System)</string>
+    <string name="toast_language_changed_restart_needed">Wɔasesa kasa no ayɛ no %1$s. Sɛ wopɛ sɛ nsakrae no yɛ adwuma yiye a, yɛsrɛ wo san fi app no ase anaasɛ yɛ nsakrae wɔ krataafa no so foforo.</string>
+    <string name="toast_language_not_changed">Wɔansasakra kasa no.</string>
+    <string name="settings_toolbar_title">Nhyehyɛe ahorow</string>
+    <string name="settings_item_title_theme">Tema</string>
+    <string name="settings_item_title_language">Kasa</string>
+    <string name="settings_item_title_other_apps">App ahorow afoforo</string>
+    <string name="settings_item_title_privacy_policy">Ahintasɛm ho Policy</string>
+    <string name="settings_item_title_about_app">Ho nsɛm</string>
+    <string name="settings_item_title_follow_us">Di yɛn akyi</string>
+    <string name="settings_app_version_placeholder">Version X.X.X</string>
+    <string name="cd_settings_item_theme_icon">Tema paw mfonini</string>
+    <string name="cd_settings_item_language_icon">Kasa paw mfonini</string>
+    <string name="cd_settings_item_other_apps_icon">App ahorow afoforo mfonini</string>
+    <string name="cd_settings_item_privacy_policy_icon">Ahintasɛm ho policy mfonini</string>
+    <string name="cd_settings_item_about_app_icon">App ho nsɛm mfonini</string>
+    <string name="cd_settings_item_follow_us_icon">Di yɛn akyi mfonini</string>
+
+</resources>

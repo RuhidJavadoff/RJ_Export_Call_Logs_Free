@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">RJ Arama Kayıtlarını Dışa Aktarma</string>
+    <string name="navigation_drawer_open">Gezinme çekmecesini aç</string>
+    <string name="navigation_drawer_close">Gezinme çekmecesini kapat</string>
+    <string name="nav_title_settings">Ayarlar</string>
+    <string name="nav_title_call_log">Arama Geçmişi</string>
+    <string name="nav_title_other_apps">Diğer Uygulamalar</string>
+    <string name="nav_title_privacy_policy">Gizlilik Politikası</string>
+    <string name="nav_title_about_app">Uygulama Hakkında</string>
+
+    <string name="toolbar_title_open_menu">Menüyü Aç</string>
+    <string name="title_language_selection">Dil Seçimi</string>
+    <string name="action_confirm">Onayla</string>
+    <string name="cd_language_item_icon">Dil simgesi</string>
+    <string name="language_option_system_default">Cihaz dili (Sistem)</string>
+    <string name="toast_language_changed_restart_needed">Dil %1$s olarak değiştirildi. Değişikliklerin tam olarak uygulanması için lütfen uygulamayı yeniden başlatın veya sayfaları yenileyin.</string>
+    <string name="toast_language_not_changed">Dil değiştirilmedi.</string>
+    <string name="settings_toolbar_title">Ayarlar</string>
+    <string name="settings_item_title_theme">Tema</string>
+    <string name="settings_item_title_language">Dil</string>
+    <string name="settings_item_title_other_apps">Diğer Uygulamalar</string>
+    <string name="settings_item_title_privacy_policy">Gizlilik Politikası</string>
+    <string name="settings_item_title_about_app">Hakkında</string>
+    <string name="settings_item_title_follow_us">Bizi Takip Edin</string>
+    <string name="settings_app_version_placeholder">Sürüm X.X.X</string>
+    <string name="cd_settings_item_theme_icon">Tema seçimi simgesi</string>
+    <string name="cd_settings_item_language_icon">Dil seçimi simgesi</string>
+    <string name="cd_settings_item_other_apps_icon">Diğer uygulamalar simgesi</string>
+    <string name="cd_settings_item_privacy_policy_icon">Gizlilik politikası simgesi</string>
+    <string name="cd_settings_item_about_app_icon">Uygulama hakkında simgesi</string>
+    <string name="cd_settings_item_follow_us_icon">Bizi takip edin simgesi</string>
+
+    <string name="label_time_filter">Zaman Filtresi:</string>
+    <string name="button_filter_all_time">Tüm Zamanlar</string>
+    <string name="label_export_options">Dışa Aktar:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">Arama Geçmişi</string>
+    <string name="cd_call_log_list">Arama geçmişi listesi</string>
+
+    <string name="button_donate">Bağış Yap!</string>
+    <string name="text_powered_by">Sağlayıcı: veb.developher.az</string>
+
+    <string name="text_unknown_number">Bilinmeyen</string>
+    <string name="call_type_answered">Cevaplandı</string>
+    <string name="call_type_missed">Cevapsız</string>
+    <string name="call_type_outgoing">Giden</string>
+    <string name="call_type_voicemail">Sesli Posta</string>
+    <string name="call_type_rejected">Reddedildi</string>
+    <string name="call_type_blocked">Engellendi</string>
+    <string name="call_type_unknown">Bilinmeyen</string>
+
+    <string name="excel_sheet_name_call_history">Arama Geçmişi</string>
+    <string name="excel_header_number">Numara</string>
+    <string name="excel_header_date">Tarih</string>
+    <string name="excel_header_duration">Süre (sn)</string>
+    <string name="excel_header_type">Tür</string>
+
+    <string name="toast_excel_export_success">Excel dosyası başarıyla kaydedildi!</string>
+    <string name="toast_excel_export_error_opening_file">Dışa aktarma için dosya açılırken hata oluştu.</string>
+    <string name="toast_excel_export_error_saving">Excel dosyası kaydedilirken hata oluştu.</string>
+    <string name="toast_no_data_to_export">Dışa aktarılacak veri yok.</string>
+    <string name="call_type_unknown_formatted">Bilinmeyen (%1$s)</string>
+
+    <string name="toast_file_not_selected">Dosya seçilmedi</string>
+
+    <string name="toast_txt_export_success">TXT dosyası başarıyla kaydedildi!</string>
+    <string name="toast_txt_export_error_saving">TXT dosyası kaydedilirken hata oluştu.</string>
+
+    <string name="txt_header_number">Numara</string>
+    <string name="txt_header_date">Tarih</string>
+    <string name="txt_header_duration">Süre (sn)</string>
+    <string name="txt_header_type">Tür</string>
+
+    <string name="toast_permission_granted">İzin verildi</string>
+    <string name="toast_permission_required_to_show_call_log">Arama geçmişini göstermek için izin gerekli</string>
+    <string name="text_unknown_filter_fallback">BilinmeyenFiltre</string>
+    <string name="toast_permission_rationale_call_log">Arama geçmişini görüntülemek için izin gereklidir.</string>
+    <string name="toast_no_calls_found_for_filter">Seçili filtre için arama bulunamadı</string>
+    <string name="toast_permission_denied_call_log_repo">Arama geçmişini okumak için izin gereklidir.</string>
+    <string name="toast_error_loading_call_log_repo">Arama geçmişi okunurken hata oluştu.</string>
+
+    <string name="text_filter_button_default">Filtre</string>
+    <string name="toast_no_app_to_open_link">Bu bağlantıyı açmak için uygun uygulama bulunamadı.</string>
+    <string name="dialog_title_select_time_filter">Zaman Filtresini Seçin</string>
+    <string name="dialog_button_cancel">İptal</string>
+    <string name="datepicker_title_select_date_range">Tarih Aralığını Seçin</string>
+
+    <string name="pdf_document_title">Arama Geçmişi Dışa Aktarımı</string>
+    <string name="pdf_header_number">Numara</string>
+    <string name="pdf_header_date">Tarih</string>
+    <string name="pdf_header_duration">Süre (sn)</string>
+    <string name="pdf_header_type">Tür</string>
+
+    <string name="toast_pdf_export_success_pages">PDF dosyası (%1$d sayfa) başarıyla kaydedildi!</string>
+    <string name="toast_pdf_export_error_saving">PDF dosyası kaydedilirken hata oluştu: %1$s</string>
+
+    <string name="settings_title">Ayarlar</string>
+    <string name="toast_language_settings_future">Dil ayarları (gelecekte)</string>
+    <string name="dialog_title_select_theme">Tema Seçin</string>
+    <string name="text_app_version">Sürüm %1$s</string>
+    <string name="text_app_version_na">Sürüm Yok</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">Açık</string>
+    <string name="theme_option_dark">Koyu</string>
+    <string name="theme_option_system">Sistem (Varsayılan)</string>
+
+    <string name="filter_option_all_time">Tüm Zamanlar</string>
+    <string name="filter_option_today">Bugün</string>
+    <string name="filter_option_last_7_days">Son 7 Gün</string>
+    <string name="filter_option_last_30_days">Son 30 Gün</string>
+    <string name="filter_option_last_1_year">Son 1 Yıl</string>
+    <string name="filter_option_custom_range">Özel Aralık</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+</resources>

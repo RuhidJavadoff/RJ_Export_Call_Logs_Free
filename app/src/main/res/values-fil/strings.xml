@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">RJ Pag-export ng Mga Log ng Tawag</string>
+    <string name="navigation_drawer_open">Buksan ang navigation drawer</string>
+    <string name="navigation_drawer_close">Isara ang navigation drawer</string>
+    <string name="nav_title_settings">Mga Setting</string>
+    <string name="nav_title_call_log">Kasaysayan ng Tawag</string>
+    <string name="nav_title_other_apps">Iba pang Apps</string>
+    <string name="nav_title_privacy_policy">Patakaran sa Privacy</string>
+    <string name="nav_title_about_app">Tungkol sa App</string>
+
+    <string name="toolbar_title_open_menu">Buksan ang Menu</string>
+
+    <string name="label_time_filter">Filter ng Oras:</string>
+    <string name="button_filter_all_time">Lahat ng Oras</string>
+    <string name="label_export_options">I-export sa:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">Kasaysayan ng Tawag</string>
+    <string name="cd_call_log_list">Listahan ng kasaysayan ng tawag</string>
+
+    <string name="button_donate">Mag-donate!</string>
+    <string name="text_powered_by">Pinapagana ng: veb.developher.az</string>
+
+    <string name="text_unknown_number">Hindi Kilala</string>
+    <string name="call_type_answered">Nasagot</string>
+    <string name="call_type_missed">Hindi Nasagot</string>
+    <string name="call_type_outgoing">Papalabas</string>
+    <string name="call_type_voicemail">Voicemail</string>
+    <string name="call_type_rejected">Tinanggihan</string>
+    <string name="call_type_blocked">Na-block</string>
+    <string name="call_type_unknown">Hindi Kilala</string>
+
+    <string name="excel_sheet_name_call_history">Kasaysayan ng Tawag</string>
+    <string name="excel_header_number">Numero</string>
+    <string name="excel_header_date">Petsa</string>
+    <string name="excel_header_duration">Tagal (seg)</string>
+    <string name="excel_header_type">Uri</string>
+
+    <string name="toast_excel_export_success">Matagumpay na na-save ang Excel file!</string>
+    <string name="toast_excel_export_error_opening_file">Nagka-error sa pagbubukas ng file para i-export.</string>
+    <string name="toast_excel_export_error_saving">Nagka-error sa pag-save ng Excel file.</string>
+    <string name="toast_no_data_to_export">Walang data na ie-export.</string>
+    <string name="call_type_unknown_formatted">Hindi Kilala (%1$s)</string>
+
+    <string name="toast_file_not_selected">Walang napiling file</string>
+
+    <string name="toast_txt_export_success">Matagumpay na na-save ang TXT file!</string>
+    <string name="toast_txt_export_error_saving">Nagka-error sa pag-save ng TXT file.</string>
+
+    <string name="txt_header_number">Numero</string>
+    <string name="txt_header_date">Petsa</string>
+    <string name="txt_header_duration">Tagal (seg)</string>
+    <string name="txt_header_type">Uri</string>
+
+    <string name="toast_permission_granted">Pinayagan</string>
+    <string name="toast_permission_required_to_show_call_log">Kailangan ng pahintulot para ipakita ang kasaysayan ng tawag</string>
+    <string name="text_unknown_filter_fallback">HindiKilalangFilter</string>
+    <string name="toast_permission_rationale_call_log">Kailangan ng pahintulot para ipakita ang kasaysayan ng tawag.</string>
+    <string name="toast_no_calls_found_for_filter">Walang nahanap na tawag para sa napiling filter</string>
+    <string name="toast_permission_denied_call_log_repo">Kailangan ng pahintulot para basahin ang kasaysayan ng tawag.</string>
+    <string name="toast_error_loading_call_log_repo">Nagka-error sa pag-load ng kasaysayan ng tawag.</string>
+
+    <string name="text_filter_button_default">Filter</string>
+    <string name="toast_no_app_to_open_link">Walang nahanap na angkop na app para buksan ang link na ito.</string>
+    <string name="dialog_title_select_time_filter">Pumili ng Filter ng Oras</string>
+    <string name="dialog_button_cancel">Kanselahin</string>
+    <string name="datepicker_title_select_date_range">Pumili ng Saklaw ng Petsa</string>
+
+    <string name="pdf_document_title">Export ng Kasaysayan ng Tawag</string>
+    <string name="pdf_header_number">Numero</string>
+    <string name="pdf_header_date">Petsa</string>
+    <string name="pdf_header_duration">Tagal (seg)</string>
+    <string name="pdf_header_type">Uri</string>
+
+    <string name="toast_pdf_export_success_pages">Matagumpay na na-save ang PDF file (%1$d pahina)!</string>
+    <string name="toast_pdf_export_error_saving">Nagka-error sa pag-save ng PDF file: %1$s</string>
+
+    <string name="settings_title">Mga Setting</string>
+    <string name="toast_language_settings_future">Mga setting ng wika (sa hinaharap)</string>
+    <string name="dialog_title_select_theme">Pumili ng Tema</string>
+    <string name="text_app_version">Bersyon %1$s</string>
+    <string name="text_app_version_na">Bersyon N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">Maliwanag (Light)</string>
+    <string name="theme_option_dark">Madilim (Dark)</string>
+    <string name="theme_option_system">System (Default)</string>
+
+    <string name="filter_option_all_time">Lahat ng Oras</string>
+    <string name="filter_option_today">Ngayon</string>
+    <string name="filter_option_last_7_days">Huling 7 Araw</string>
+    <string name="filter_option_last_30_days">Huling 30 Araw</string>
+    <string name="filter_option_last_1_year">Huling 1 Taon</string>
+    <string name="filter_option_custom_range">Pasadyang Saklaw</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+
+    <string name="title_language_selection">Pagpili ng Wika</string>
+    <string name="action_confirm">Kumpirmahin</string>
+    <string name="cd_language_item_icon">Icon ng wika</string>
+    <string name="language_option_system_default">Wika ng Device (System)</string>
+    <string name="toast_language_changed_restart_needed">Ang wika ay napalitan sa %1$s. Para ganap na mailapat ang mga pagbabago, mangyaring i-restart ang app o i-refresh ang mga pahina.</string>
+    <string name="toast_language_not_changed">Hindi nabago ang wika.</string>
+    <string name="settings_toolbar_title">Mga Setting</string>
+    <string name="settings_item_title_theme">Tema</string>
+    <string name="settings_item_title_language">Wika</string>
+    <string name="settings_item_title_other_apps">Iba pang Apps</string>
+    <string name="settings_item_title_privacy_policy">Patakaran sa Privacy</string>
+    <string name="settings_item_title_about_app">Tungkol sa</string>
+    <string name="settings_item_title_follow_us">Sundan Kami</string>
+    <string name="settings_app_version_placeholder">Bersyon X.X.X</string>
+    <string name="cd_settings_item_theme_icon">Icon ng pagpili ng tema</string>
+    <string name="cd_settings_item_language_icon">Icon ng pagpili ng wika</string>
+    <string name="cd_settings_item_other_apps_icon">Icon ng iba pang apps</string>
+    <string name="cd_settings_item_privacy_policy_icon">Icon ng patakaran sa privacy</string>
+    <string name="cd_settings_item_about_app_icon">Icon tungkol sa app</string>
+    <string name="cd_settings_item_follow_us_icon">Icon ng sundan kami</string>
+</resources>

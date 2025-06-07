@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">RJ Tumira Kunze Zvinyorwa zveKufona</string>
+    <string name="navigation_drawer_open">Vhura dhirowa rekufambisa</string>
+    <string name="navigation_drawer_close">Vhara dhirowa rekufambisa</string>
+    <string name="nav_title_settings">Zvirongwa</string>
+    <string name="nav_title_call_log">Nhoroondo Yekufona</string>
+    <string name="nav_title_other_apps">Mamwe Mapurogiramu</string>
+    <string name="nav_title_privacy_policy">Mutemo Wezvakavanzika</string>
+    <string name="nav_title_about_app">NezvePurogiramu</string>
+
+    <string name="toolbar_title_open_menu">Vhura Menyu</string>
+
+    <string name="label_time_filter">Sefa Yenguva:</string>
+    <string name="button_filter_all_time">Nguva Dzose</string>
+    <string name="label_export_options">Tumira Ku:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">Nhoroondo Yekufona</string>
+    <string name="cd_call_log_list">Rondedzero yenhoroondo yekufona</string>
+
+    <string name="button_donate">Ipa!</string>
+    <string name="text_powered_by">Inofambiswa ne: veb.developher.az</string>
+
+    <string name="text_unknown_number">Haisati Yazivikanwa</string>
+    <string name="call_type_answered">Yakadavirwa</string>
+    <string name="call_type_missed">Yakapotsa</string>
+    <string name="call_type_outgoing">Inobuda</string>
+    <string name="call_type_voicemail">Voicemail</string>
+    <string name="call_type_rejected">Yakarambwa</string>
+    <string name="call_type_blocked">Yakavharwa</string>
+    <string name="call_type_unknown">Haisati Yazivikanwa</string>
+
+    <string name="excel_sheet_name_call_history">Nhoroondo Yekufona</string>
+    <string name="excel_header_number">Nhamba</string>
+    <string name="excel_header_date">Zuva</string>
+    <string name="excel_header_duration">Nguva (sekondi)</string>
+    <string name="excel_header_type">Rudzi</string>
+    <string name="title_language_selection">Sarudzo Yemutauro</string>
+    <string name="action_confirm">Simbisa</string>
+    <string name="cd_language_item_icon">Chiratidzo chemutauro</string>
+    <string name="language_option_system_default">Mutauro weChishandiso (System)</string>
+    <string name="toast_language_changed_restart_needed">Mutauro wachinjwa kuva %1$s. Kuti shanduko dzishande zvizere, tapota tangazve purogiramu kana kuvandudza mapeji.</string>
+    <string name="toast_language_not_changed">Mutauro hauna kuchinjwa.</string>
+    <string name="settings_toolbar_title">Zvirongwa</string>
+    <string name="settings_item_title_theme">Dingindira</string>
+    <string name="settings_item_title_language">Mutauro</string>
+    <string name="settings_item_title_other_apps">Mamwe Mapurogiramu</string>
+    <string name="settings_item_title_privacy_policy">Mutemo Wezvakavanzika</string>
+    <string name="settings_item_title_about_app">Nezvazvo</string>
+    <string name="settings_item_title_follow_us">Titeverei</string>
+    <string name="settings_app_version_placeholder">Vhezheni X.X.X</string>
+    <string name="cd_settings_item_theme_icon">Chiratidzo chekusarudza dingindira</string>
+    <string name="cd_settings_item_language_icon">Chiratidzo chekusarudza mutauro</string>
+    <string name="cd_settings_item_other_apps_icon">Chiratidzo chemamwe mapurogiramu</string>
+    <string name="cd_settings_item_privacy_policy_icon">Chiratidzo chemutemo wezvakavanzika</string>
+    <string name="cd_settings_item_about_app_icon">Chiratidzo nezvepurogiramu</string>
+    <string name="cd_settings_item_follow_us_icon">Chiratidzo chekutitevera</string>
+
+    <string name="toast_excel_export_success">Faira reExcel rachengetwa zvinobudirira!</string>
+    <string name="toast_excel_export_error_opening_file">Kanganiso pakuvhura faira rekutumira kunze.</string>
+    <string name="toast_excel_export_error_saving">Kanganiso pakuchengeta faira reExcel.</string>
+    <string name="toast_no_data_to_export">Hapana data rekutumira kunze.</string>
+    <string name="call_type_unknown_formatted">Haisati Yazivikanwa (%1$s)</string>
+
+    <string name="toast_file_not_selected">Faira harina kusarudzwa</string>
+
+    <string name="toast_txt_export_success">Faira reTXT rachengetwa zvinobudirira!</string>
+    <string name="toast_txt_export_error_saving">Kanganiso pakuchengeta faira reTXT.</string>
+
+    <string name="txt_header_number">Nhamba</string>
+    <string name="txt_header_date">Zuva</string>
+    <string name="txt_header_duration">Nguva (sekondi)</string>
+    <string name="txt_header_type">Rudzi</string>
+
+    <string name="toast_permission_granted">Mvumo yapiwa</string>
+    <string name="toast_permission_required_to_show_call_log">Mvumo inodiwa kuratidza nhoroondo yekufona</string>
+    <string name="text_unknown_filter_fallback">SefaIsingazivikanwe</string>
+    <string name="toast_permission_rationale_call_log">Mvumo inodiwa kuratidza nhoroondo yekufona.</string>
+    <string name="toast_no_calls_found_for_filter">Hapana mafoni awanikwa esefa yakasarudzwa</string>
+    <string name="toast_permission_denied_call_log_repo">Mvumo inodiwa kuverenga nhoroondo yekufona.</string>
+    <string name="toast_error_loading_call_log_repo">Kanganiso pakuverenga nhoroondo yekufona.</string>
+
+    <string name="text_filter_button_default">Sefa</string>
+    <string name="toast_no_app_to_open_link">Hapana purogiramu yakakodzera yawanikwa yekuvhura iyi link.</string>
+    <string name="dialog_title_select_time_filter">Sarudza Sefa Yenguva</string>
+    <string name="dialog_button_cancel">Kanzura</string>
+    <string name="datepicker_title_select_date_range">Sarudza Nguva Yemazuva</string>
+
+    <string name="pdf_document_title">Kutumirwa Kwenhoroondo Yekufona</string>
+    <string name="pdf_header_number">Nhamba</string>
+    <string name="pdf_header_date">Zuva</string>
+    <string name="pdf_header_duration">Nguva (sekondi)</string>
+    <string name="pdf_header_type">Rudzi</string>
+
+    <string name="toast_pdf_export_success_pages">Faira rePDF (mapeji %1$d) rachengetwa zvinobudirira!</string>
+    <string name="toast_pdf_export_error_saving">Kanganiso pakuchengeta faira rePDF: %1$s</string>
+
+    <string name="settings_title">Zvirongwa</string>
+    <string name="toast_language_settings_future">Zvirongwa zvemutauro (mune ramangwana)</string>
+    <string name="dialog_title_select_theme">Sarudza Dingindira</string>
+    <string name="text_app_version">Vhezheni %1$s</string>
+    <string name="text_app_version_na">Vhezheni N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">Chiedza</string>
+    <string name="theme_option_dark">Rima</string>
+    <string name="theme_option_system">Sisitimu (Yakasarudzika)</string>
+
+    <string name="filter_option_all_time">Nguva Dzose</string>
+    <string name="filter_option_today">Nhasi</string>
+    <string name="filter_option_last_7_days">Mazuva 7 Apfuura</string>
+    <string name="filter_option_last_30_days">Mazuva 30 Apfuura</string>
+    <string name="filter_option_last_1_year">Gore 1 Rapfuura</string>
+    <string name="filter_option_custom_range">Tsika Yemhando</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+</resources>

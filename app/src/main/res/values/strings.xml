@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">RJ Zəng Qeydləri İxracı</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_title_settings">Ayarlar</string>
+    <string name="nav_title_call_log">Zəng Tarixçəsi</string>
+    <string name="nav_title_other_apps">Digər Tətbiqlər</string>
+    <string name="nav_title_privacy_policy">Məxfilik Siyasəti</string>
+    <string name="nav_title_about_app">Tətbiq Haqqında</string>
+
+    //yeni stringler
+    <string name="toolbar_title_open_menu">Menyu Aç</string>
+
+    <string name="label_time_filter">Zaman Filteri:</string>
+    <string name="button_filter_all_time">Bütün Zamanlar</string> <string name="label_export_options">İxrac et:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">Zəng Tarixçəsi</string>
+    <string name="cd_call_log_list">Zəng tarixçəsi siyahısı</string>
+
+    <string name="button_donate">Dəstək ol!</string>
+    <string name="text_powered_by">Təminatçı: veb.developher.az</string>
+
+    <string name="text_unknown_number">Naməlum</string> <string name="call_type_answered">Cavablanmış</string>
+    <string name="call_type_missed">Cavabsız</string>
+    <string name="call_type_outgoing">Xaric olan</string>
+    <string name="call_type_voicemail">Səsli poçt</string>
+    <string name="call_type_rejected">Rədd edilmiş</string>
+    <string name="call_type_blocked">Bloklanmış</string>
+    <string name="call_type_unknown">Naməlum</string>
+
+    <string name="excel_sheet_name_call_history">Zəng Tarixçəsi</string>
+    <string name="excel_header_number">Nömrə</string>
+    <string name="excel_header_date">Tarix</string>
+    <string name="excel_header_duration">Müddət (san)</string>
+    <string name="excel_header_type">Növ</string>
+
+    <string name="toast_excel_export_success">Excel faylı uğurla yadda saxlandı!</string>
+    <string name="toast_excel_export_error_opening_file">Faylı ixrac üçün açarkən xəta baş verdi.</string>
+    <string name="toast_excel_export_error_saving">Excel faylını yadda saxlayarkən xəta baş verdi.</string>
+    <string name="toast_no_data_to_export">İxrac üçün məlumat yoxdur.</string> <string name="call_type_unknown_formatted">Naməlum (%1$s)</string>
+
+
+    <string name="toast_file_not_selected">Fayl seçilmədi</string>
+
+    <string name="toast_txt_export_success">TXT faylı uğurla yadda saxlandı!</string>
+    <string name="toast_txt_export_error_saving">TXT faylını yadda saxlayarkən xəta baş verdi.</string>
+
+    <string name="txt_header_number">Nömrə</string>
+    <string name="txt_header_date">Tarix</string>
+    <string name="txt_header_duration">Müddət (san)</string>
+    <string name="txt_header_type">Növ</string>
+
+    <string name="toast_permission_granted">İcazə verildi</string>
+    <string name="toast_permission_required_to_show_call_log">Zəng tarixçəsini göstərmək üçün icazə lazımdır</string>
+    <string name="text_unknown_filter_fallback">NaməlumFilter</string> <string name="toast_permission_rationale_call_log">Zəng tarixçəsini göstərmək üçün icazəyə ehtiyac var.</string>
+    <string name="toast_no_calls_found_for_filter">Seçilmiş filter üzrə zəng tapılmadı</string>
+    <string name="toast_permission_denied_call_log_repo">Zəng tarixçəsini oxumaq üçün icazə tələb olunur.</string>
+    <string name="toast_error_loading_call_log_repo">Zəng tarixçəsini oxuyarkən xəta baş verdi.</string>
+
+    <string name="text_filter_button_default">Filter</string> <string name="toast_no_app_to_open_link">Bu linki açmaq üçün uyğun tətbiq tapılmadı.</string>
+    <string name="dialog_title_select_time_filter">Zaman Filterini Seçin</string>
+    <string name="dialog_button_cancel">Ləğv et</string>
+    <string name="datepicker_title_select_date_range">Tarix Aralığını Seçin</string>
+
+    <string name="pdf_document_title">Zəng Tarixçəsi İxracı</string>
+    <string name="pdf_header_number">Nömrə</string>
+    <string name="pdf_header_date">Tarix</string>
+    <string name="pdf_header_duration">Müddət (san)</string>
+    <string name="pdf_header_type">Növ</string>
+
+    <string name="toast_pdf_export_success_pages">PDF faylı (%1$d səhifə) uğurla yadda saxlandı!</string>
+    <string name="toast_pdf_export_error_saving">PDF faylını yadda saxlayarkən xəta baş verdi: %1$s</string>
+
+    <string name="settings_title">Ayarlar</string> <string name="toast_language_settings_future">Dil ayarları (gələcəkdə)</string>
+    <string name="dialog_title_select_theme">Tema Seçin</string>
+    <string name="text_app_version">Versiya %1$s</string>
+    <string name="text_app_version_na">Versiya N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">Açıq (Light)</string>
+    <string name="theme_option_dark">Tünd (Dark)</string>
+    <string name="theme_option_system">Sistem (Default)</string>
+
+
+        <string name="filter_option_all_time">Bütün Zamanlar</string>
+        <string name="filter_option_today">Bugün</string>
+        <string name="filter_option_last_7_days">Son 7 Gün</string>
+        <string name="filter_option_last_30_days">Son 30 Gün</string>
+        <string name="filter_option_last_1_year">Son 1 İl</string>
+        <string name="filter_option_custom_range">Xüsusi Aralıq</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+
+    //tercume edilecekler
+
+    <string name="title_language_selection">Dil Seçimi</string>
+    <string name="action_confirm">Təsdiqlə</string>
+    <string name="cd_language_item_icon">Dil ikonu</string>
+    <string name="language_option_system_default">Cihaz dili (Sistem)</string>
+    <string name="toast_language_changed_restart_needed">Dil %1$s olaraq dəyişdirildi. Dəyişikliklərin tam tətbiqi üçün tətbiqi yenidən başladın və ya səhifələri yeniləyin.</string>
+    <string name="toast_language_not_changed">Dil dəyişdirilmədi.</string>
+    <string name="settings_toolbar_title">Ayarlar</string> <string name="settings_item_title_theme">Tema</string>
+    <string name="settings_item_title_language">Dil</string>
+    <string name="settings_item_title_other_apps">Digər Tətbiqlər</string>
+    <string name="settings_item_title_privacy_policy">Məxfilik Siyasəti</string>
+    <string name="settings_item_title_about_app">Haqqında</string>
+    <string name="settings_item_title_follow_us">Bizi İzlə</string>
+    <string name="settings_app_version_placeholder">Versiya X.X.X</string> <string name="cd_settings_item_theme_icon">Tema seçimi ikonu</string>
+    <string name="cd_settings_item_language_icon">Dil seçimi ikonu</string>
+    <string name="cd_settings_item_other_apps_icon">Digər tətbiqlər ikonu</string>
+    <string name="cd_settings_item_privacy_policy_icon">Məxfilik siyasəti ikonu</string>
+    <string name="cd_settings_item_about_app_icon">Tətbiq haqqında ikonu</string>
+    <string name="cd_settings_item_follow_us_icon">Bizi izlə ikonu</string>
+
+
+
+</resources>

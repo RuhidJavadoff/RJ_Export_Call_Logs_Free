@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">RJ कॉल लॉग निर्यात</string>
+    <string name="navigation_drawer_open">नेविगेशन ड्रॉवर खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉवर बंद करें</string>
+    <string name="nav_title_settings">सेटिंग्स</string>
+    <string name="nav_title_call_log">कॉल लॉग</string>
+    <string name="nav_title_other_apps">अन्य ऐप्स</string>
+    <string name="nav_title_privacy_policy">गोपनीयता नीति</string>
+    <string name="nav_title_about_app">ऐप के बारे में</string>
+
+    <string name="toolbar_title_open_menu">मेनू खोलें</string>
+
+    <string name="label_time_filter">समय फ़िल्टर:</string>
+    <string name="button_filter_all_time">सभी समय</string>
+    <string name="label_export_options">निर्यात करें:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">कॉल लॉग</string>
+    <string name="cd_call_log_list">कॉल लॉग सूची</string>
+
+    <string name="button_donate">दान करें!</string>
+    <string name="text_powered_by">द्वारा संचालित: veb.developher.az</string>
+
+    <string name="text_unknown_number">अज्ञात</string>
+    <string name="call_type_answered">उत्तर दिया गया</string>
+    <string name="call_type_missed">मिस्ड</string>
+    <string name="call_type_outgoing">आउटगोइंग</string>
+    <string name="call_type_voicemail">वॉइसमेल</string>
+    <string name="call_type_rejected">अस्वीकृत</string>
+    <string name="call_type_blocked">ब्लॉक किया गया</string>
+    <string name="call_type_unknown">अज्ञात</string>
+
+    <string name="excel_sheet_name_call_history">कॉल लॉग</string>
+    <string name="excel_header_number">नंबर</string>
+    <string name="excel_header_date">तिथि</string>
+    <string name="excel_header_duration">अवधि (सेकंड)</string>
+    <string name="excel_header_type">प्रकार</string>
+
+    <string name="toast_excel_export_success">एक्सेल फ़ाइल सफलतापूर्वक सहेजी गई!</string>
+    <string name="toast_excel_export_error_opening_file">निर्यात के लिए फ़ाइल खोलते समय त्रुटि हुई।</string>
+    <string name="toast_excel_export_error_saving">एक्सेल फ़ाइल सहेजते समय त्रुटि हुई।</string>
+    <string name="toast_no_data_to_export">निर्यात के लिए कोई डेटा नहीं।</string>
+    <string name="call_type_unknown_formatted">अज्ञात (%1$s)</string>
+
+    <string name="toast_file_not_selected">कोई फ़ाइल नहीं चुनी गई</string>
+
+    <string name="toast_txt_export_success">TXT फ़ाइल सफलतापूर्वक सहेजी गई!</string>
+    <string name="toast_txt_export_error_saving">TXT फ़ाइल सहेजते समय त्रुटि हुई।</string>
+
+    <string name="txt_header_number">नंबर</string>
+    <string name="txt_header_date">तिथि</string>
+    <string name="txt_header_duration">अवधि (सेकंड)</string>
+    <string name="txt_header_type">प्रकार</string>
+
+    <string name="toast_permission_granted">अनुमति दी गई</string>
+    <string name="toast_permission_required_to_show_call_log">कॉल लॉग दिखाने के लिए अनुमति आवश्यक है</string>
+    <string name="text_unknown_filter_fallback">अज्ञातफ़िल्टर</string>
+    <string name="toast_permission_rationale_call_log">कॉल लॉग दिखाने के लिए अनुमति की आवश्यकता है।</string>
+    <string name="toast_no_calls_found_for_filter">चयनित फ़िल्टर के लिए कोई कॉल नहीं मिली</string>
+    <string name="toast_permission_denied_call_log_repo">कॉल लॉग पढ़ने के लिए अनुमति आवश्यक है।</string>
+    <string name="toast_error_loading_call_log_repo">कॉल लॉग लोड करते समय त्रुटि हुई।</string>
+
+    <string name="text_filter_button_default">फ़िल्टर</string>
+    <string name="toast_no_app_to_open_link">इस लिंक को खोलने के लिए कोई उपयुक्त ऐप नहीं मिला।</string>
+    <string name="dialog_title_select_time_filter">समय फ़िल्टर चुनें</string>
+    <string name="dialog_button_cancel">रद्द करें</string>
+    <string name="datepicker_title_select_date_range">तिथि सीमा चुनें</string>
+
+    <string name="pdf_document_title">कॉल लॉग निर्यात</string>
+    <string name="pdf_header_number">नंबर</string>
+    <string name="pdf_header_date">तिथि</string>
+    <string name="pdf_header_duration">अवधि (सेकंड)</string>
+    <string name="pdf_header_type">प्रकार</string>
+
+    <string name="toast_pdf_export_success_pages">PDF फ़ाइल (%1$d पृष्ठ) सफलतापूर्वक सहेजी गई!</string>
+    <string name="toast_pdf_export_error_saving">PDF फ़ाइल सहेजते समय त्रुटि हुई: %1$s</string>
+
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="toast_language_settings_future">भाषा सेटिंग्स (भविष्य में)</string>
+    <string name="dialog_title_select_theme">थीम चुनें</string>
+    <string name="text_app_version">संस्करण %1$s</string>
+    <string name="text_app_version_na">संस्करण N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">हल्का (Light)</string>
+    <string name="theme_option_dark">गहरा (Dark)</string>
+    <string name="theme_option_system">सिस्टम (Default)</string>
+
+    <string name="filter_option_all_time">सभी समय</string>
+    <string name="filter_option_today">आज</string>
+    <string name="filter_option_last_7_days">पिछले 7 दिन</string>
+    <string name="filter_option_last_30_days">पिछले 30 दिन</string>
+    <string name="filter_option_last_1_year">पिछले 1 वर्ष</string>
+    <string name="filter_option_custom_range">कस्टम रेंज</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+
+    <string name="title_language_selection">भाषा चयन</string>
+    <string name="action_confirm">पुष्टि करें</string>
+    <string name="cd_language_item_icon">भाषा आइकन</string>
+    <string name="language_option_system_default">डिवाइस भाषा (सिस्टम)</string>
+    <string name="toast_language_changed_restart_needed">भाषा %1$s में बदल दी गई है। परिवर्तनों को पूरी तरह से लागू करने के लिए, कृपया ऐप को पुनरारंभ करें या पृष्ठों को ताज़ा करें।</string>
+    <string name="toast_language_not_changed">भाषा नहीं बदली गई।</string>
+    <string name="settings_toolbar_title">सेटिंग्स</string>
+    <string name="settings_item_title_theme">थीम</string>
+    <string name="settings_item_title_language">भाषा</string>
+    <string name="settings_item_title_other_apps">अन्य ऐप्स</string>
+    <string name="settings_item_title_privacy_policy">गोपनीयता नीति</string>
+    <string name="settings_item_title_about_app">के बारे में</string>
+    <string name="settings_item_title_follow_us">हमें फ़ॉलो करें</string>
+    <string name="settings_app_version_placeholder">संस्करण X.X.X</string>
+    <string name="cd_settings_item_theme_icon">थीम चयन आइकन</string>
+    <string name="cd_settings_item_language_icon">भाषा चयन आइकन</string>
+    <string name="cd_settings_item_other_apps_icon">अन्य ऐप्स आइकन</string>
+    <string name="cd_settings_item_privacy_policy_icon">गोपनीयता नीति आइकन</string>
+    <string name="cd_settings_item_about_app_icon">ऐप के बारे में आइकन</string>
+    <string name="cd_settings_item_follow_us_icon">हमें फ़ॉलो करें आइकन</string>
+
+</resources>

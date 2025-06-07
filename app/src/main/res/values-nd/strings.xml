@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">RJ Khipha Amalogi Okufona</string>
+    <string name="navigation_drawer_open">Vula idilowa yokuzulazula</string>
+    <string name="navigation_drawer_close">Vala idilowa yokuzulazula</string>
+    <string name="nav_title_settings">Izilungiselelo</string>
+    <string name="nav_title_call_log">Umlando Wokufona</string>
+    <string name="nav_title_other_apps">Ezinye Izinhlelo Zokusebenza</string>
+    <string name="nav_title_privacy_policy">Inqubomgomo Yobumfihlo</string>
+    <string name="nav_title_about_app">Mayelana Nohlelo Lokusebenza</string>
+    <string name="title_language_selection">Ukukhethwa Kolimi</string>
+    <string name="action_confirm">Qinisekisa</string>
+    <string name="cd_language_item_icon">Isithonjana solimi</string>
+    <string name="language_option_system_default">Ulimi Lwedivayisi (Uhlelo)</string>
+    <string name="toast_language_changed_restart_needed">Ulimi lushintshwe lwaba yi-%1$s. Ukuze izinguquko zisebenze ngokugcwele, sicela uqale kabusha uhlelo lokusebenza noma uvuselele amakhasi.</string>
+    <string name="toast_language_not_changed">Ulimi alushintshwanga.</string>
+    <string name="settings_toolbar_title">Izilungiselelo</string>
+    <string name="settings_item_title_theme">Itimu</string>
+    <string name="settings_item_title_language">Ulimi</string>
+    <string name="settings_item_title_other_apps">Ezinye Izinhlelo Zokusebenza</string>
+    <string name="settings_item_title_privacy_policy">Inqubomgomo Yobumfihlo</string>
+    <string name="settings_item_title_about_app">Mayelana</string>
+    <string name="settings_item_title_follow_us">Silandele</string>
+    <string name="settings_app_version_placeholder">Inguqulo X.X.X</string>
+    <string name="cd_settings_item_theme_icon">Isithonjana sokukhetha itimu</string>
+    <string name="cd_settings_item_language_icon">Isithonjana sokukhetha ulimi</string>
+    <string name="cd_settings_item_other_apps_icon">Isithonjana sezinye izinhlelo zokusebenza</string>
+    <string name="cd_settings_item_privacy_policy_icon">Isithonjana senqubomgomo yobumfihlo</string>
+    <string name="cd_settings_item_about_app_icon">Isithonjana mayelana nohlelo lokusebenza</string>
+    <string name="cd_settings_item_follow_us_icon">Isithonjana sokusilandela</string>
+
+    <string name="toolbar_title_open_menu">Vula Imenyu</string>
+
+    <string name="label_time_filter">Isihlungi Sesikhathi:</string>
+    <string name="button_filter_all_time">Sonke Isikhathi</string>
+    <string name="label_export_options">Khiphela Ku:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">Umlando Wokufona</string>
+    <string name="cd_call_log_list">Uhlu lomlando wokufona</string>
+
+    <string name="button_donate">Nikela!</string>
+    <string name="text_powered_by">Inikwe amandla yi: veb.developher.az</string>
+
+    <string name="text_unknown_number">Akaziwa</string>
+    <string name="call_type_answered">Kuphenduliwe</string>
+    <string name="call_type_missed">Kuphuthelwe</string>
+    <string name="call_type_outgoing">Okuphumayo</string>
+    <string name="call_type_voicemail">Ivoyisimeyili</string>
+    <string name="call_type_rejected">Kwaliwe</string>
+    <string name="call_type_blocked">Kuvaliwe</string>
+    <string name="call_type_unknown">Akaziwa</string>
+
+    <string name="excel_sheet_name_call_history">Umlando Wokufona</string>
+    <string name="excel_header_number">Inombolo</string>
+    <string name="excel_header_date">Usuku</string>
+    <string name="excel_header_duration">Isikhathi (imizuzwana)</string>
+    <string name="excel_header_type">Uhlobo</string>
+
+    <string name="toast_excel_export_success">Ifayela le-Excel lilondolozwe ngempumelelo!</string>
+    <string name="toast_excel_export_error_opening_file">Iphutha ekuvuleni ifayela lokukhipha.</string>
+    <string name="toast_excel_export_error_saving">Iphutha ekulondolozeni ifayela le-Excel.</string>
+    <string name="toast_no_data_to_export">Ayikho idatha yokukhipha.</string>
+    <string name="call_type_unknown_formatted">Akaziwa (%1$s)</string>
+
+    <string name="toast_file_not_selected">Ifayela alikhethwanga</string>
+
+    <string name="toast_txt_export_success">Ifayela le-TXT lilondolozwe ngempumelelo!</string>
+    <string name="toast_txt_export_error_saving">Iphutha ekulondolozeni ifayela le-TXT.</string>
+
+    <string name="txt_header_number">Inombolo</string>
+    <string name="txt_header_date">Usuku</string>
+    <string name="txt_header_duration">Isikhathi (imizuzwana)</string>
+    <string name="txt_header_type">Uhlobo</string>
+
+    <string name="toast_permission_granted">Imvume inikeziwe</string>
+    <string name="toast_permission_required_to_show_call_log">Kudingeka imvume ukukhombisa umlando wokufona</string>
+    <string name="text_unknown_filter_fallback">IsihlungiEsingaziwa</string>
+    <string name="toast_permission_rationale_call_log">Kudingeka imvume ukuze kuboniswe umlando wezingcingo.</string>
+    <string name="toast_no_calls_found_for_filter">Azikho izingcingo ezitholakele zesihlungi esikhethiwe</string>
+    <string name="toast_permission_denied_call_log_repo">Kudingeka imvume ukuze kufundwe umlando wezingcingo.</string>
+    <string name="toast_error_loading_call_log_repo">Kube nephutha ekufundeni umlando wezingcingo.</string>
+
+    <string name="text_filter_button_default">Isihlungi</string>
+    <string name="toast_no_app_to_open_link">Alukho uhlelo lokusebenza olufanelekile olutholakele lokuvula lesi sixhumanisi.</string>
+    <string name="dialog_title_select_time_filter">Khetha Isihlungi Sesikhathi</string>
+    <string name="dialog_button_cancel">Khansela</string>
+    <string name="datepicker_title_select_date_range">Khetha Ibanga Losuku</string>
+
+    <string name="pdf_document_title">Ukukhishwa Komlando Wokufona</string>
+    <string name="pdf_header_number">Inombolo</string>
+    <string name="pdf_header_date">Usuku</string>
+    <string name="pdf_header_duration">Isikhathi (imizuzwana)</string>
+    <string name="pdf_header_type">Uhlobo</string>
+
+    <string name="toast_pdf_export_success_pages">Ifayela le-PDF (%1$d amakhasi) lilondolozwe ngempumelelo!</string>
+    <string name="toast_pdf_export_error_saving">Iphutha ekulondolozeni ifayela le-PDF: %1$s</string>
+
+    <string name="settings_title">Izilungiselelo</string>
+    <string name="toast_language_settings_future">Izilungiselelo zolimi (esikhathini esizayo)</string>
+    <string name="dialog_title_select_theme">Khetha Itimu</string>
+    <string name="text_app_version">Inguqulo %1$s</string>
+    <string name="text_app_version_na">Inguqulo N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">Ukukhanya</string>
+    <string name="theme_option_dark">Kumnyama</string>
+    <string name="theme_option_system">Isistimu (Okuzenzakalelayo)</string>
+
+    <string name="filter_option_all_time">Sonke Isikhathi</string>
+    <string name="filter_option_today">Namuhla</string>
+    <string name="filter_option_last_7_days">Izinsuku Eziyi-7 Ezidlule</string>
+    <string name="filter_option_last_30_days">Izinsuku Ezingama-30 Ezidlule</string>
+    <string name="filter_option_last_1_year">Unyaka O-1 Odlule</string>
+    <string name="filter_option_custom_range">Ibanga Ngokwezifiso</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+</resources>

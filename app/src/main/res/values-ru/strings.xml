@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">RJ Экспорт Журналов Вызовов</string>
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="nav_title_settings">Настройки</string>
+    <string name="nav_title_call_log">История звонков</string>
+    <string name="nav_title_other_apps">Другие приложения</string>
+    <string name="nav_title_privacy_policy">Политика конфиденциальности</string>
+    <string name="nav_title_about_app">О приложении</string>
+
+    <string name="toolbar_title_open_menu">Открыть меню</string>
+
+    <string name="label_time_filter">Фильтр по времени:</string>
+    <string name="button_filter_all_time">За все время</string>
+    <string name="label_export_options">Экспортировать в:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">История звонков</string>
+    <string name="cd_call_log_list">Список истории звонков</string>
+
+    <string name="button_donate">Поддержать!</string>
+    <string name="text_powered_by">Разработано: veb.developher.az</string>
+
+    <string name="text_unknown_number">Неизвестный</string>
+    <string name="call_type_answered">Отвеченный</string>
+    <string name="call_type_missed">Пропущенный</string>
+    <string name="call_type_outgoing">Исходящий</string>
+    <string name="call_type_voicemail">Голосовая почта</string>
+    <string name="call_type_rejected">Отклоненный</string>
+    <string name="call_type_blocked">Заблокированный</string>
+    <string name="call_type_unknown">Неизвестный</string>
+    <string name="title_language_selection">Выбор языка</string>
+    <string name="action_confirm">Подтвердить</string>
+    <string name="cd_language_item_icon">Иконка языка</string>
+    <string name="language_option_system_default">Язык устройства (Системный)</string>
+    <string name="toast_language_changed_restart_needed">Язык изменен на %1$s. Чтобы изменения вступили в силу полностью, перезапустите приложение или обновите страницы.</string>
+    <string name="toast_language_not_changed">Язык не изменен.</string>
+    <string name="settings_toolbar_title">Настройки</string>
+    <string name="settings_item_title_theme">Тема</string>
+    <string name="settings_item_title_language">Язык</string>
+    <string name="settings_item_title_other_apps">Другие приложения</string>
+    <string name="settings_item_title_privacy_policy">Политика конфиденциальности</string>
+    <string name="settings_item_title_about_app">О приложении</string>
+    <string name="settings_item_title_follow_us">Следите за нами</string>
+    <string name="settings_app_version_placeholder">Версия X.X.X</string>
+    <string name="cd_settings_item_theme_icon">Иконка выбора темы</string>
+    <string name="cd_settings_item_language_icon">Иконка выбора языка</string>
+    <string name="cd_settings_item_other_apps_icon">Иконка других приложений</string>
+    <string name="cd_settings_item_privacy_policy_icon">Иконка политики конфиденциальности</string>
+    <string name="cd_settings_item_about_app_icon">Иконка "О приложении"</string>
+    <string name="cd_settings_item_follow_us_icon">Иконка "Следите за нами"</string>
+
+    <string name="excel_sheet_name_call_history">История звонков</string>
+    <string name="excel_header_number">Номер</string>
+    <string name="excel_header_date">Дата</string>
+    <string name="excel_header_duration">Длительность (сек)</string>
+    <string name="excel_header_type">Тип</string>
+
+    <string name="toast_excel_export_success">Файл Excel успешно сохранен!</string>
+    <string name="toast_excel_export_error_opening_file">Ошибка при открытии файла для экспорта.</string>
+    <string name="toast_excel_export_error_saving">Ошибка при сохранении файла Excel.</string>
+    <string name="toast_no_data_to_export">Нет данных для экспорта.</string>
+    <string name="call_type_unknown_formatted">Неизвестный (%1$s)</string>
+
+    <string name="toast_file_not_selected">Файл не выбран</string>
+
+    <string name="toast_txt_export_success">Файл TXT успешно сохранен!</string>
+    <string name="toast_txt_export_error_saving">Ошибка при сохранении файла TXT.</string>
+
+    <string name="txt_header_number">Номер</string>
+    <string name="txt_header_date">Дата</string>
+    <string name="txt_header_duration">Длительность (сек)</string>
+    <string name="txt_header_type">Тип</string>
+
+    <string name="toast_permission_granted">Разрешение предоставлено</string>
+    <string name="toast_permission_required_to_show_call_log">Требуется разрешение для отображения истории звонков</string>
+    <string name="text_unknown_filter_fallback">НеизвестныйФильтр</string>
+    <string name="toast_permission_rationale_call_log">Для отображения истории звонков необходимо разрешение.</string>
+    <string name="toast_no_calls_found_for_filter">Для выбранного фильтра звонки не найдены</string>
+    <string name="toast_permission_denied_call_log_repo">Требуется разрешение на чтение истории звонков.</string>
+    <string name="toast_error_loading_call_log_repo">Ошибка при чтении истории звонков.</string>
+
+    <string name="text_filter_button_default">Фильтр</string>
+    <string name="toast_no_app_to_open_link">Не найдено подходящее приложение для открытия этой ссылки.</string>
+    <string name="dialog_title_select_time_filter">Выберите фильтр по времени</string>
+    <string name="dialog_button_cancel">Отмена</string>
+    <string name="datepicker_title_select_date_range">Выберите диапазон дат</string>
+
+    <string name="pdf_document_title">Экспорт истории звонков</string>
+    <string name="pdf_header_number">Номер</string>
+    <string name="pdf_header_date">Дата</string>
+    <string name="pdf_header_duration">Длительность (сек)</string>
+    <string name="pdf_header_type">Тип</string>
+
+    <string name="toast_pdf_export_success_pages">PDF-файл (%1$d стр.) успешно сохранен!</string>
+    <string name="toast_pdf_export_error_saving">Ошибка при сохранении PDF-файла: %1$s</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="toast_language_settings_future">Настройки языка (в будущем)</string>
+    <string name="dialog_title_select_theme">Выберите тему</string>
+    <string name="text_app_version">Версия %1$s</string>
+    <string name="text_app_version_na">Версия Н/Д</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">Светлая</string>
+    <string name="theme_option_dark">Темная</string>
+    <string name="theme_option_system">Системная (по умолчанию)</string>
+
+    <string name="filter_option_all_time">За все время</string>
+    <string name="filter_option_today">Сегодня</string>
+    <string name="filter_option_last_7_days">Последние 7 дней</string>
+    <string name="filter_option_last_30_days">Последние 30 дней</string>
+    <string name="filter_option_last_1_year">Последний 1 год</string>
+    <string name="filter_option_custom_range">Пользовательский диапазон</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+</resources>

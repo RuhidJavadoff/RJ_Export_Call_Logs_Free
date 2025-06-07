@@ -1,0 +1,27 @@
+<resources>
+    <color name="md_theme_primary">#006A60</color> <color name="md_theme_onPrimary">#FFFFFF</color> <color name="md_theme_primaryContainer">#74F8E5</color> <color name="md_theme_onPrimaryContainer">#00201C</color> <color name="md_theme_secondary">#4A635E</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#CCE8E1</color>
+    <color name="md_theme_onSecondaryContainer">#05201B</color>
+
+    <color name="md_theme_tertiary">#456178</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_tertiaryContainer">#CCE5FF</color>
+    <color name="md_theme_onTertiaryContainer">#001E31</color>
+
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_errorContainer">#FFDAD6</color>
+    <color name="md_theme_onErrorContainer">#410002</color>
+
+
+
+    <color name="md_theme_background">#FAFDFB</color> <color name="md_theme_onBackground">#191C1B</color> <color name="md_theme_surface">#FAFDFB</color> <color name="md_theme_onSurface">#191C1B</color> <color name="md_theme_surfaceVariant">#DAE5E1</color> <color name="md_theme_onSurfaceVariant">#3F4947</color>
+
+    <color name="md_theme_outline">#6F7977</color> <color name="md_theme_outlineVariant">#BEC9C5</color> <color name="md_theme_inverseSurface">#2E3130</color> <color name="md_theme_inverseOnSurface">#EFF1EF</color>
+    <color name="md_theme_inversePrimary">#52DBC9</color> <color name="md_theme_surfaceContainerLowest">#FFFFFF</color> <color name="md_theme_surfaceContainerLow">#F4F7F5</color> <color name="md_theme_surfaceContainer">#EEF2F0</color> <color name="md_theme_surfaceContainerHigh">#E8ECEF</color> <color name="md_theme_surfaceContainerHighest">#E2E7E5</color> <color name="md_theme_scrim">#000000</color> <color name="md_theme_surfaceBright">#FAFDFB</color> <color name="md_theme_surfaceDim">#D9DDDB</color>
+
+
+        <color name="call_log_icon_green">#4CAF50</color> <color name="call_log_icon_red">#F44336</color>   <color name="call_log_icon_default_tint">#757575</color>
+
+</resources>

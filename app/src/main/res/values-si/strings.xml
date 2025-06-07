@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">RJ ඇමතුම් ලඝු-සටහන් අපනයනය</string>
+    <string name="navigation_drawer_open">සංචාලන ලාච්චුව විවෘත කරන්න</string>
+    <string name="navigation_drawer_close">සංචාලන ලාච්චුව වසන්න</string>
+    <string name="nav_title_settings">සැකසුම්</string>
+    <string name="nav_title_call_log">ඇමතුම් ඉතිහාසය</string>
+    <string name="nav_title_other_apps">වෙනත් යෙදුම්</string>
+    <string name="nav_title_privacy_policy">රහස්‍යතා ප්‍රතිපත්තිය</string>
+    <string name="nav_title_about_app">යෙදුම පිළිබඳව</string>
+    <string name="title_language_selection">භාෂා තේරීම</string>
+    <string name="action_confirm">තහවුරු කරන්න</string>
+    <string name="cd_language_item_icon">භාෂා නිරූපකය</string>
+    <string name="language_option_system_default">උපාංග භාෂාව (පද්ධතිය)</string>
+    <string name="toast_language_changed_restart_needed">භාෂාව %1$s ලෙස වෙනස් කරන ලදී. වෙනස්කම් සම්පූර්ණයෙන් ක්‍රියාත්මක වීමට, කරුණාකර යෙදුම නැවත අරඹන්න හෝ පිටු නැවුම් කරන්න.</string>
+    <string name="toast_language_not_changed">භාෂාව වෙනස් කර නොමැත.</string>
+    <string name="settings_toolbar_title">සැකසුම්</string>
+    <string name="settings_item_title_theme">තේමාව</string>
+    <string name="settings_item_title_language">භාෂාව</string>
+    <string name="settings_item_title_other_apps">වෙනත් යෙදුම්</string>
+    <string name="settings_item_title_privacy_policy">රහස්‍යතා ප්‍රතිපත්තිය</string>
+    <string name="settings_item_title_about_app">පිළිබඳව</string>
+    <string name="settings_item_title_follow_us">අපව අනුගමනය කරන්න</string>
+    <string name="settings_app_version_placeholder">අනුවාදය X.X.X</string>
+    <string name="cd_settings_item_theme_icon">තේමා තේරීම් නිරූපකය</string>
+    <string name="cd_settings_item_language_icon">භාෂා තේරීම් නිරූපකය</string>
+    <string name="cd_settings_item_other_apps_icon">වෙනත් යෙදුම් නිරූපකය</string>
+    <string name="cd_settings_item_privacy_policy_icon">රහස්‍යතා ප්‍රතිපත්ති නිරූපකය</string>
+    <string name="cd_settings_item_about_app_icon">යෙදුම පිළිබඳ නිරූපකය</string>
+    <string name="cd_settings_item_follow_us_icon">අපව අනුගමනය කරන්න නිරූපකය</string>
+
+    <string name="toolbar_title_open_menu">මෙනුව විවෘත කරන්න</string>
+
+    <string name="label_time_filter">කාල පෙරහන:</string>
+    <string name="button_filter_all_time">සෑම විටම</string>
+    <string name="label_export_options">අපනයනය කරන්න:</string>
+    <string name="button_export_txt">TXT</string>
+    <string name="button_export_pdf">PDF</string>
+    <string name="button_export_xlsx">XLSX</string>
+    <string name="title_call_history">ඇමතුම් ඉතිහාසය</string>
+    <string name="cd_call_log_list">ඇමතුම් ඉතිහාස ලැයිස්තුව</string>
+
+    <string name="button_donate">පරිත්‍යාග කරන්න!</string>
+    <string name="text_powered_by">බල ගැන්වුම: veb.developher.az</string>
+
+    <string name="text_unknown_number">නොදන්නා</string>
+    <string name="call_type_answered">පිළිතුරු දුන්</string>
+    <string name="call_type_missed">මග හැරුණු</string>
+    <string name="call_type_outgoing">පිටතට යන</string>
+    <string name="call_type_voicemail">හඬ තැපෑල</string>
+    <string name="call_type_rejected">ප්‍රතික්ෂේප කළ</string>
+    <string name="call_type_blocked">අවහිර කළ</string>
+    <string name="call_type_unknown">නොදන්නා</string>
+
+    <string name="excel_sheet_name_call_history">ඇමතුම් ඉතිහාසය</string>
+    <string name="excel_header_number">අංකය</string>
+    <string name="excel_header_date">දිනය</string>
+    <string name="excel_header_duration">කාලය (තත්)</string>
+    <string name="excel_header_type">වර්ගය</string>
+
+    <string name="toast_excel_export_success">Excel ගොනුව සාර්ථකව සුරකින ලදී!</string>
+    <string name="toast_excel_export_error_opening_file">අපනයනය සඳහා ගොනුව විවෘත කිරීමේදී දෝෂයක් ඇතිවිය.</string>
+    <string name="toast_excel_export_error_saving">Excel ගොනුව සුරැකීමේදී දෝෂයක් ඇතිවිය.</string>
+    <string name="toast_no_data_to_export">අපනයනය කිරීමට දත්ත නොමැත.</string>
+    <string name="call_type_unknown_formatted">නොදන්නා (%1$s)</string>
+
+    <string name="toast_file_not_selected">ගොනුවක් තෝරාගෙන නොමැත</string>
+
+    <string name="toast_txt_export_success">TXT ගොනුව සාර්ථකව සුරකින ලදී!</string>
+    <string name="toast_txt_export_error_saving">TXT ගොනුව සුරැකීමේදී දෝෂයක් ඇතිවිය.</string>
+
+    <string name="txt_header_number">අංකය</string>
+    <string name="txt_header_date">දිනය</string>
+    <string name="txt_header_duration">කාලය (තත්)</string>
+    <string name="txt_header_type">වර්ගය</string>
+
+    <string name="toast_permission_granted">අවසර ලබා දෙන ලදී</string>
+    <string name="toast_permission_required_to_show_call_log">ඇමතුම් ලොගය පෙන්වීමට අවසර අවශ්‍යයි</string>
+    <string name="text_unknown_filter_fallback">නොදන්නාපෙරහන</string>
+    <string name="toast_permission_rationale_call_log">ඇමතුම් ඉතිහාසය පෙන්වීමට අවසර අවශ්‍ය වේ.</string>
+    <string name="toast_no_calls_found_for_filter">තෝරාගත් පෙරහන සඳහා ඇමතුම් කිසිවක් හමු නොවීය</string>
+    <string name="toast_permission_denied_call_log_repo">ඇමතුම් ඉතිහාසය කියවීමට අවසර අවශ්‍ය වේ.</string>
+    <string name="toast_error_loading_call_log_repo">ඇමතුම් ඉතිහාසය කියවීමේදී දෝෂයක් ඇතිවිය.</string>
+
+    <string name="text_filter_button_default">පෙරහන</string>
+    <string name="toast_no_app_to_open_link">මෙම සබැඳිය විවෘත කිරීමට සුදුසු යෙදුමක් හමු නොවීය.</string>
+    <string name="dialog_title_select_time_filter">කාල පෙරහන තෝරන්න</string>
+    <string name="dialog_button_cancel">අවලංගු කරන්න</string>
+    <string name="datepicker_title_select_date_range">දින පරාසය තෝරන්න</string>
+
+    <string name="pdf_document_title">ඇමතුම් ඉතිහාස අපනයනය</string>
+    <string name="pdf_header_number">අංකය</string>
+    <string name="pdf_header_date">දිනය</string>
+    <string name="pdf_header_duration">කාලය (තත්)</string>
+    <string name="pdf_header_type">වර්ගය</string>
+
+    <string name="toast_pdf_export_success_pages">PDF ගොනුව (පිටු %1$d) සාර්ථකව සුරකින ලදී!</string>
+    <string name="toast_pdf_export_error_saving">PDF ගොනුව සුරැකීමේදී දෝෂයක් ඇතිවිය: %1$s</string>
+
+    <string name="settings_title">සැකසුම්</string>
+    <string name="toast_language_settings_future">භාෂා සැකසුම් (අනාගතයේදී)</string>
+    <string name="dialog_title_select_theme">තේමාව තෝරන්න</string>
+    <string name="text_app_version">අනුවාදය %1$s</string>
+    <string name="text_app_version_na">අනුවාදය N/A</string>
+
+    <string-array name="theme_options">
+        <item>@string/theme_option_light</item>
+        <item>@string/theme_option_dark</item>
+        <item>@string/theme_option_system</item>
+    </string-array>
+    <string name="theme_option_light">ලා පැහැති</string>
+    <string name="theme_option_dark">තද පැහැති</string>
+    <string name="theme_option_system">පද්ධතිය (පෙරනිමි)</string>
+
+    <string name="filter_option_all_time">සෑම විටම</string>
+    <string name="filter_option_today">අද</string>
+    <string name="filter_option_last_7_days">පසුගිය දින 7</string>
+    <string name="filter_option_last_30_days">පසුගිය දින 30</string>
+    <string name="filter_option_last_1_year">පසුගිය වසර 1</string>
+    <string name="filter_option_custom_range">අභිරුචි පරාසය</string>
+
+    <string-array name="time_filter_options">
+        <item>@string/filter_option_all_time</item>
+        <item>@string/filter_option_today</item>
+        <item>@string/filter_option_last_7_days</item>
+        <item>@string/filter_option_last_30_days</item>
+        <item>@string/filter_option_last_1_year</item>
+        <item>@string/filter_option_custom_range</item>
+    </string-array>
+</resources>
